@@ -1,0 +1,40 @@
+_repo: Chita--A-Memory-of-Last-Island_717
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Xiaoquan, Bayun
+    - Hearn, Patrick Lafcadio
+    - Koizumi, Yakumo
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: A traveler with insatiable wanderlust, journalist and ethnographer Lafcadio
+  Hearn spent much of his life journeying to new and unfamiliar cultures. After spending
+  some time in New Orleans, Hearn became interested in the fate of a barrier island
+  off the Gulf Coast that had been destroyed by a tropical storm. It is this doomed
+  island that forms the centerpiece of Hearn's engrossing novel Chita.
+gutenberg_issued: '1996-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missing children -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Yellow fever -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Louisiana -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Hurricanes -- Fiction'
+- GITenberg
+title: 'Chita: A Memory of Last Island'
+url: http://www.gutenberg.org/ebooks/717
