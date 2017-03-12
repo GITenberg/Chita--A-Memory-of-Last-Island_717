@@ -1,5 +1,8 @@
 _repo: Chita--A-Memory-of-Last-Island_717
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hearn, Lafcadio
@@ -17,6 +20,8 @@ description: A traveler with insatiable wanderlust, journalist and ethnographer 
   some time in New Orleans, Hearn became interested in the fate of a barrier island
   off the Gulf Coast that had been destroyed by a tropical storm. It is this doomed
   island that forms the centerpiece of Hearn's engrossing novel Chita.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/717#Chita--A-Memory-of-Last-Island
 gutenberg_issued: '1996-11-01'
 gutenberg_type: Text
 identifiers:
